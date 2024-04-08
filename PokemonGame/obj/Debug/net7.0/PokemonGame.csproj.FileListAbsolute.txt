@@ -1,0 +1,15 @@
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\bin\Debug\net7.0\PokemonGame.exe
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\bin\Debug\net7.0\PokemonGame.deps.json
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\bin\Debug\net7.0\PokemonGame.runtimeconfig.json
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\bin\Debug\net7.0\PokemonGame.dll
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\bin\Debug\net7.0\PokemonGame.pdb
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.csproj.AssemblyReference.cache
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.AssemblyInfoInputs.cache
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.AssemblyInfo.cs
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.dll
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\refint\PokemonGame.dll
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.pdb
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\PokemonGame.genruntimeconfig.cache
+C:\Users\Luis Fernando Parra\Desktop\CODE\Taller2\PokemonGame\obj\Debug\net7.0\ref\PokemonGame.dll
