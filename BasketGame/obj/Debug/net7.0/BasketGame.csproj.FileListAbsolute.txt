@@ -1,0 +1,15 @@
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\bin\Debug\net7.0\BasketGame.exe
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\bin\Debug\net7.0\BasketGame.deps.json
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\bin\Debug\net7.0\BasketGame.runtimeconfig.json
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\bin\Debug\net7.0\BasketGame.dll
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\bin\Debug\net7.0\BasketGame.pdb
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.csproj.AssemblyReference.cache
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.AssemblyInfoInputs.cache
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.AssemblyInfo.cs
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.dll
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\refint\BasketGame.dll
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.pdb
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\BasketGame.genruntimeconfig.cache
+C:\Users\Luis Fernando Parra\desktop\code\taller2\BasketGame\obj\Debug\net7.0\ref\BasketGame.dll
